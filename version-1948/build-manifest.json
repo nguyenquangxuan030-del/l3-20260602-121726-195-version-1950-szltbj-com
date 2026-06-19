@@ -1,9 +1,0 @@
-{
-    "site_title": "日韩精选影片-精选日韩影片片单-热门影片在线点播",
-    "logo": "日韩精选影片",
-    "movies_parsed": 2000,
-    "detail_pages": 2000,
-    "category_pages": 10,
-    "video_sources_extracted_from_js": 20,
-    "cover_reference_rule": "X = ((N - 1) % 150) + 1, referenced as root ./1.jpg to ./150.jpg"
-}
